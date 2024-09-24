@@ -1,0 +1,1 @@
+# education-codespaces-project-template-js
